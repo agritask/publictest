@@ -1,5 +1,9 @@
 # Devops junior test README. 
 
+Position status: OPEN
+
+## Description
+
 This repo is published to test a pretending candidate skill of Linux system administration, core knowledge and english language skill.  
 
 The following test is divided by two steps:  
