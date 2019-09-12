@@ -10,3 +10,5 @@ Write down a letter with your vision how to build a fail-safe server/system cont
 
 Drawings are welcome.  
 Handwritten drawings — too.
+
+There is no fail if you have no experience in such planning — think how would you build such service. We'd like to know the way you're thinking and how do you tell your thoughts.
