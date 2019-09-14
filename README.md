@@ -26,6 +26,8 @@ Completion of the `Test04` is a mandatory.
 
 Completing each test isn't a mandatory - there is no fail in non-acquaintance, we're just probing you current knowledge limits. Two completed tests is a must, more — up to you.
 
+Bonus tracks order isn't a mandatory and not linked to each other. Bonus tracks are linked only to the parent test.
+
 Make a Pull Request when you're ready.
 
 Don't forget to put your CV in the root.

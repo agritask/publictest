@@ -30,3 +30,7 @@ do
 	sleep 10
 done
 ```
+
+## Bonus track
+
+Explain what is wrong with that script and how you could make it better.
