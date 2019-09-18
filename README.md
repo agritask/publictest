@@ -44,4 +44,4 @@ Don't forget to put your CV in the root.
 ### Rejection procedure
 
 * If you received the PR rejection notice — your test results did not satisfy us.
-* If you passed an interview but didn't pass we will send you a personal letter with our apologies.
+* If you passed an interview but didn't pass the short list selection we will send you a personal letter with our apologies.
