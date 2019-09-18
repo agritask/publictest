@@ -31,3 +31,17 @@ Bonus tracks order isn't a mandatory and not linked to each other. Bonus tracks 
 Make a Pull Request when you're ready.
 
 Don't forget to put your CV in the root.
+
+## Candidate assesment procedure
+
+* Upon receiving the PR we'll check you tests.
+* If your tests looks good we're going to check your CV.
+* If your CV looks promising to us we'll contact you using the details from the CV to arrange a Skype/Zoom meeting.
+* If technical interview is passed well candidate is handovered to HR to arrange a second remote meeting.
+* If HR is happy too then the candidate will get place in a short-list.
+* Within a week or two the final decision will be made and offer will be sent to the final candidate. 
+
+### Rejection procedure
+
+* If you received the PR rejection notice — your test results did not satisfy us.
+* If you passed an interview but didn't pass we will send you a personal letter with our apologies.
