@@ -1,6 +1,6 @@
 # Devops junior test README. 
 
-Position status: OPEN
+Position status: CLOSED
 
 ## Description
 
